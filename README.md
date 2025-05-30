@@ -6,7 +6,7 @@
 <h2>✳️ Labs & Walkthroughs :</h2>
 
 - <b> TryHackMe SOC 1</b>
-  - [SOC1 Walkthrough](https://github.com/MariahCyberSec/THM-SOC/blob/main/README.md)
+  - [SOC1 Walkthrough](https://github.com/MariahCyberSec/THM-SOC/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
