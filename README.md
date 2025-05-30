@@ -1,4 +1,7 @@
-<h1>Hi, I'm Mariah!  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Welcome to My Tech Portfolio!</h1>
+<p>Hi, I'm Mariah.</p>
+<p>Currently I'm working on...➡️ <a href="https://example.com" target="_blank">SOC Lab 1</a></p>
+
 
 <h2>✳️ Labs & Walkthroughs :</h2>
 
