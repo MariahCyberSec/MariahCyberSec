@@ -7,6 +7,9 @@
 
 - <b> TryHackMe SOC 1</b>
   - [SOC1 Walkthrough](https://github.com/MariahCyberSec/THM-SOC/tree/main)
+- <b> Magnet AXIOM Portable Case- Making a Case</b>
+  - [SOC1 Walkthrough](https://github.com/MariahCyberSec/THM-SOC/tree/main)
+
 
 <h2> ✳️ Projects</h2>
 
